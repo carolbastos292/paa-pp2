@@ -1,0 +1,29 @@
+K32_2
+N nos: 32
+Solução encontrada 30
+Tempo: 0.094 s
+
+K32_4
+N nos: 32
+Solução encontrada 28
+Tempo: 1.173 s
+
+K32_8
+N nos: 32
+Solução encontrada 26
+Tempo: 35.538 s
+
+K32_10
+N nos: 32
+Solução encontrada 26
+Tempo: 161.115 s
+
+K25_10
+N nos: 25
+Solução encontrada 19
+Tempo: 1.869 s
+
+K32_20
+N nos: 32
+Solução encontrada 22
+Tempo: 344.940 s
